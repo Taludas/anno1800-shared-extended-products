@@ -1,6 +1,6 @@
 # Shared Anno 1800 Mods
 
-Shared products from Kurila and others.
+Shared products from Kurila and Lrds42.
 
 You are free to include shared products, as long as you don't modify the mods themselves.
 
@@ -18,27 +18,5 @@ Icon | GUID | Name |
 
 ### Use Products in your Mod
 
-Add the following dependencies to your `modinfo.json`:
-
-
 Products are not unlocked automatically, you need to unlock them yourself, if you use the products without those.
 
-## How to Build
-
-### Build with Visual Studio Code plugin
-
-The mods are made with the [Modding Tools for Anno](https://marketplace.visualstudio.com/items?itemName=JakobHarder.anno-modding-tools) extension for [VS Code](https://code.visualstudio.com/).
-
-Make sure to set `annoMods` settings.
-
-Install the plugin, open a mod folder and press `F1` and choose `Build Anno Mod` or right click on a `modinfo.json` file.
-
-### Build with Node.js
-
-Run the following commands:
-
-```
-npm install .
-npm run build
-npm run package
-```

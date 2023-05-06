@@ -1,6 +1,6 @@
 # Shared Anno 1800 Mods
 
-Shared products from Kurila and others.
+Shared products from Kurila and Lrds42.
 
 You are free to include shared products, as long as you don't modify the mods themselves.
 
@@ -19,7 +19,11 @@ Icon | GUID | Name |
 ### Use Products in your Mod
 
 Add the following dependencies to your `modinfo.json`:
-
+```json
+"ModDependencies": [
+  "https://github.com/Qurila/anno1800-shared-extended-products/releases/download/v1.0.0/shared-extended-products-kurila.zip",
+]
+```
 
 Products are not unlocked automatically, you need to unlock them yourself, if you use the products without those.
 
