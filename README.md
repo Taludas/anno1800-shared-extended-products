@@ -25,7 +25,7 @@ Add the following dependencies to your `modinfo.json`:
 ]
 ```
 
-Products are not unlocked automatically, you need to unlock them yourself, if you use the products without those.
+Products are not unlocked automatically, you need to unlock them yourself, if you use the products.
 
 ## How to Build
 
