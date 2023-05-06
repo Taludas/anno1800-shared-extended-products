@@ -1,0 +1,60 @@
+{
+  "files": {
+    "d:\\Tools\\Workbench\\Repos\\anno1800-extended-products\\[Shared] Extended Products (Kurila)\\data\\products\\barrels\\icon_barrels.png": {
+      "sha": "6921f1ccee1aa19edf9e1d41c270462dce0a092448ce375d833badfae2423a90",
+      "output": {
+        "D:\\Spiele\\Ubisoft\\Anno 1800\\mods\\[Shared] Extended Products (Kurila)\\data\\products\\barrels\\icon_barrels_0.dds": {
+          "sha": "cafd4ba1cb55dcd74534cf9d242d8b2421777b08c2264aacafb22d58c8a424d6"
+        },
+        "D:\\Spiele\\Ubisoft\\Anno 1800\\mods\\[Shared] Extended Products (Kurila)\\data\\products\\barrels\\icon_barrels_1.dds": {
+          "sha": "cafd4ba1cb55dcd74534cf9d242d8b2421777b08c2264aacafb22d58c8a424d6"
+        },
+        "D:\\Spiele\\Ubisoft\\Anno 1800\\mods\\[Shared] Extended Products (Kurila)\\data\\products\\barrels\\icon_barrels_2.dds": {
+          "sha": "cafd4ba1cb55dcd74534cf9d242d8b2421777b08c2264aacafb22d58c8a424d6"
+        }
+      }
+    },
+    "d:\\Tools\\Workbench\\Repos\\anno1800-extended-products\\[Shared] Extended Products (Kurila)\\data\\products\\cattle\\icon_cattle.png": {
+      "sha": "cdd23dccb8f12c4c850d167f6311fceb95fea20a2054c3954909b42e2c368cd3",
+      "output": {
+        "D:\\Spiele\\Ubisoft\\Anno 1800\\mods\\[Shared] Extended Products (Kurila)\\data\\products\\cattle\\icon_cattle_0.dds": {
+          "sha": "d6f986244a3144f4140b0e51cd70d9260994075023ff1eb1a825c892649298a3"
+        },
+        "D:\\Spiele\\Ubisoft\\Anno 1800\\mods\\[Shared] Extended Products (Kurila)\\data\\products\\cattle\\icon_cattle_1.dds": {
+          "sha": "d6f986244a3144f4140b0e51cd70d9260994075023ff1eb1a825c892649298a3"
+        },
+        "D:\\Spiele\\Ubisoft\\Anno 1800\\mods\\[Shared] Extended Products (Kurila)\\data\\products\\cattle\\icon_cattle_2.dds": {
+          "sha": "d6f986244a3144f4140b0e51cd70d9260994075023ff1eb1a825c892649298a3"
+        }
+      }
+    },
+    "d:\\Tools\\Workbench\\Repos\\anno1800-extended-products\\[Shared] Extended Products (Kurila)\\data\\products\\cherries\\icon_cherries.png": {
+      "sha": "b24815027907069c8c15c63956bbca3d189b22c055ee3e522680f036a3978514",
+      "output": {
+        "D:\\Spiele\\Ubisoft\\Anno 1800\\mods\\[Shared] Extended Products (Kurila)\\data\\products\\cherries\\icon_cherries_0.dds": {
+          "sha": "503e572b968bd78b5b6b9f883cfb97e57cb7a7580965247d3e10b00a441ee402"
+        },
+        "D:\\Spiele\\Ubisoft\\Anno 1800\\mods\\[Shared] Extended Products (Kurila)\\data\\products\\cherries\\icon_cherries_1.dds": {
+          "sha": "503e572b968bd78b5b6b9f883cfb97e57cb7a7580965247d3e10b00a441ee402"
+        },
+        "D:\\Spiele\\Ubisoft\\Anno 1800\\mods\\[Shared] Extended Products (Kurila)\\data\\products\\cherries\\icon_cherries_2.dds": {
+          "sha": "503e572b968bd78b5b6b9f883cfb97e57cb7a7580965247d3e10b00a441ee402"
+        }
+      }
+    },
+    "d:\\Tools\\Workbench\\Repos\\anno1800-extended-products\\[Shared] Extended Products (Kurila)\\data\\products\\sewing-thread\\icon_wool_raw.png": {
+      "sha": "105be7681d9b312a18feb3b8bea81ec4260b73a89f3fbc2f69dadc70d67567f1",
+      "output": {
+        "D:\\Spiele\\Ubisoft\\Anno 1800\\mods\\[Shared] Extended Products (Kurila)\\data\\products\\sewing-thread\\icon_wool_raw_0.dds": {
+          "sha": "b318cb918484e423685628bf073037329ba460e79832684b020fb71a79a2c1b5"
+        },
+        "D:\\Spiele\\Ubisoft\\Anno 1800\\mods\\[Shared] Extended Products (Kurila)\\data\\products\\sewing-thread\\icon_wool_raw_1.dds": {
+          "sha": "b318cb918484e423685628bf073037329ba460e79832684b020fb71a79a2c1b5"
+        },
+        "D:\\Spiele\\Ubisoft\\Anno 1800\\mods\\[Shared] Extended Products (Kurila)\\data\\products\\sewing-thread\\icon_wool_raw_2.dds": {
+          "sha": "b318cb918484e423685628bf073037329ba460e79832684b020fb71a79a2c1b5"
+        }
+      }
+    }
+  }
+}

@@ -18,5 +18,5 @@ Icon | GUID | Name |
 
 ### Use Products in your Mod
 
-Products are not unlocked automatically, you need to unlock them yourself, if you use the products without those.
+Products are not unlocked automatically, you need to unlock them yourself, if you use the products.
 

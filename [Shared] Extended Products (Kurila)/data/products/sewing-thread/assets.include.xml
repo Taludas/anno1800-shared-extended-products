@@ -32,6 +32,10 @@
     </Asset>
   </ModOp>
 
+  <ModOp GUID="1010267,1010197,151174" Type="replace" Path= "/Values/Standard/IconFilename">
+    <IconFilename>data/products\sewing-thread\icon_wool_raw.png</IconFilename> 
+  </ModOp>
+
   <!-- # Lists: After Wool / Alpacawool -->
   <Group>
     <ModOp Type="addNextSibling" GUID="120055"
