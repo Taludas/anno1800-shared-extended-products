@@ -1,6 +1,8 @@
 # Shared Anno 1800 Mods
 
-Shared products from Kurila and Lrds42.
+Shared extended-products from Kurila and Lrds42.
+
+These products are planned as intermediate stages to existing production chains and have a greater impact on the vanilla game.
 
 You are free to include shared products, as long as you don't modify the mods themselves.
 
