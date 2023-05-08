@@ -23,7 +23,7 @@ Icon | GUID | Name |
 Add the following dependencies to your `modinfo.json`:
 ```json
 "ModDependencies": [
-  "https://github.com/Qurila/anno1800-shared-extended-products/releases/download/v1.0.1/shared-extended-products-kurila.zip",
+  "https://github.com/Qurila/anno1800-shared-extended-products/releases/download/v1.0.2/shared_extended_products_kurila.zip",
 ]
 ```
 
