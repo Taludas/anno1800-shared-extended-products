@@ -16,6 +16,16 @@
           <BasePrice>25</BasePrice>
           <CivLevel>1</CivLevel>
           <AssociatedRegion>Moderate</AssociatedRegion>
+          <ProductionRegions>
+            <Item>
+              <RegionType>Moderate</RegionType>
+              <RequiredDLCs>
+                <Item>
+                  <RequiredDLC>410084</RequiredDLC>
+                </Item>
+              </RequiredDLCs>
+            </Item>
+          </ProductionRegions>
         </Product>
         <ExpeditionAttribute>
           <BaseMorale>0</BaseMorale>
